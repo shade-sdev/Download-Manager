@@ -58,11 +58,11 @@ class MainApp(QMainWindow, ui):
                 QMessageBox.information(self, "Download Complete!", "Download has completed.")
                 self.lineEdit.setText('')
                 self.lineEdit_2.setText('')
-                self.progessBar.setValue(0)
+               ## self.progessBar.setValue(0)
             except Exception:
                  QMessageBox.warning(self, "Download Error!", "Provide valid URL or Save Location")
                  return
-
+         
         
 
     def Save_Browse(self):
