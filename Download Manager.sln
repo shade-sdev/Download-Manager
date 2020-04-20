@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Download Manager", "Download Manager.pyproj", "{6FE20C7A-60E1-4393-A912-F04B83E5BAE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FE20C7A-60E1-4393-A912-F04B83E5BAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE20C7A-60E1-4393-A912-F04B83E5BAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BB792C1-2C6C-4DBD-9487-B2A8056E61E4}
+	EndGlobalSection
+EndGlobal
